@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ChatBot 
+public class ConsoleFoodOrderAssistant 
 {
     public static void main(String[] args) throws InterruptedException 
     {
